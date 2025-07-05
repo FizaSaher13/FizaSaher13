@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hey there, I'm Fiza Pathan!
 
-<!--
-**FizaSaher13/FizaSaher13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩‍💻 Computer Science & AI Engineering Student  
+🌟 Passionate about:
+- Prompt Engineering 🤖
+- Data Science & Machine Learning 📊
+- Cloud & DevOps ☁
+- SQL + Power BI 📈
 
-Here are some ideas to get you started:
+💡 Currently building:
+- My own Portfolio
+- Real-world Projects & Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Let’s connect:  
+[LinkedIn](www.linkedin.com/in/fiza-saher-pathan-242399373)
+[Email](mailto:fizapathan1397@gmail.com)
+
+---
+
+✨ On a mission to become a ₹25+ LPA Developer before graduation!
