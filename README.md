@@ -1,20 +1,44 @@
-# 👋 Hey there, I'm Fiza Pathan!
+<h1 align="center">Hey there! I'm <span style="color:#f06292;">Fiza Saher Pathan</span> 💖</h1>
+<h3 align="center">🧠 CSE + AI Student | 🌈 Future Prompt Engineer | ☁ DevOps & Cloud Enthusiast</h3>
 
-### 👩‍💻 Computer Science & AI Engineering Student  
-🌟 Passionate about:
-- Prompt Engineering 🤖
-- Data Science & Machine Learning 📊
-- Cloud & DevOps ☁
-- SQL + Power BI 📈
-
-💡 Currently building:
-- My own Portfolio
-- Real-world Projects & Skills
-
-📫 Let’s connect:  
-[LinkedIn](www.linkedin.com/in/fiza-saher-pathan-242399373)
-[Email](mailto:fizapathan1397@gmail.com)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!;Always+learning+new+tech.;Future+₹25+LPA+Engineer!&center=true&width=500&height=45">
+</p>
 
 ---
 
-✨ On a mission to become a ₹25+ LPA Developer before graduation!
+### 💫 About Me
+- 🔭 I’m currently building my *developer portfolio*
+- 🌱 Learning deeply: *SQL, **Power BI, **ML, **Cloud & DevOps*
+- 🧩 Exploring: *Prompt Engineering* + *AI Projects*
+- 👩‍💻 Final goal: Get placed *off-campus* with a 💸 high-paying role before graduation!
+
+---
+
+### 🔧 Tech Stack & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FizaSaher13&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FizaSaher13&theme=tokyonight" width="48%"/>
+</p>
+
+---
+
+### 🌐 Let's Connect!
+<p align="center">
+  <a href="www.linkedin.com/in/fiza-saher-pathan-242399373" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:fizapathan1397@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+---
