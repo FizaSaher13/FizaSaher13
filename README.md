@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! I'm <span style="color:#f06292;">Fiza Saher Pathan</span> 💖</h1>
+<h1 align="center">Hey there! I'm <span style="color:#f06292;">Fiza Saher Pathan</span> </h1>
 <h3 align="center">🧠 CSE + AI Student | 🌈 Future Prompt Engineer | ☁ DevOps & Cloud Enthusiast</h3>
 
 <p align="center">
