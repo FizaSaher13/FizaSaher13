@@ -2,9 +2,8 @@
 <h3 align="center">🧠 CSE + AI Student | 🌈 Future Prompt Engineer | ☁ DevOps & Cloud Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!;Always+learning+new+tech.;Future+₹25+LPA+Engineer!&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F72066&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Future+Tech+Leader!;Always+Learning+New+Tech!;Dream+Big,+Build+Bigger!" alt="Typing SVG">
 </p>
-
 ---
 
 ### 💫 About Me
